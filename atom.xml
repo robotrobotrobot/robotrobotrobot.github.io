@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://robotrobotrobot.github.io/</id>
 	<title>Robot Robot Robot</title>
-	<updated>2016-12-01T13:47:15-08:00</updated>
+	<updated>2016-12-01T14:10:47-08:00</updated>
 
 	<subtitle>Robot Robot Robot is...</subtitle>
 
@@ -31,17 +31,6 @@
 			<link href="https://robotrobotrobot.github.io/design/mediaelement_js/" rel="alternate" type="text/html" title="Play Audio &amp; Video with media&amp;shy;element.js" />
 			<updated>2015-10-15T00:00:00-07:00</updated>
 
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
 			
 			<summary>Do you like music? Or are you a podcaster? Do you want to stream your videos in a nice player? Than you likely will like the integration of &lt;em&gt;mediaelement.js&lt;/em&gt;. It enables you to play music and stream video in a consistent player that looks in each browser delicious. It even works in IE6-8.</summary>
 			<content type="html" xml:base="https://robotrobotrobot.github.io/design/mediaelement_js/">&lt;p&gt;&lt;a href=&quot;http://mediaelementjs.com/&quot;&gt;mediaelement.js&lt;/a&gt; is like magic. It’s browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to &lt;code class=&quot;highlighter-rouge&quot;&gt;true&lt;/code&gt;.&lt;/p&gt;
@@ -96,17 +85,6 @@
 			<link href="https://robotrobotrobot.github.io/design/typography/typography/" rel="alternate" type="text/html" title="Wonderful Typography" />
 			<updated>2015-08-16T00:00:00-07:00</updated>
 
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
 			
 			<summary>&lt;em&gt;Feeling Responsive&lt;/em&gt; uses &lt;a href='https://www.google.com/fonts/specimen/Volkhov'&gt;Volkhov&lt;/a&gt; for headlines, &lt;a href='https://www.google.com/fonts/specimen/Lato'&gt;Lato&lt;/a&gt; for everything else and if you are in need to show some code, it will be in &lt;a href='http://www.microsoft.com/typography/fonts/family.aspx?FID=18'&gt;Lucida Console&lt;/a&gt; or &lt;a href='http://en.wikipedia.org/wiki/Monaco_(typeface)'&gt;Monaco&lt;/a&gt;.</summary>
 			<content type="html" xml:base="https://robotrobotrobot.github.io/design/typography/typography/">&lt;!--more--&gt;
@@ -566,17 +544,6 @@ element&lt;/td&gt;
 			<updated>2015-08-15T00:00:00-07:00</updated>
 
 			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
-			
 			<summary>For a blog you need comments. Like all those other jekyll themes we baked in Disqus. It's easy to set, it works and makes a static jekyll blog more dynamic.</summary>
 			<content type="html" xml:base="https://robotrobotrobot.github.io/design/comments/">&lt;p&gt;If you want to use Disqus-Comments with &lt;em&gt;Feeling Responsive&lt;/em&gt;, just open &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt; and add your &lt;code class=&quot;highlighter-rouge&quot;&gt;disqus_shortname&lt;/code&gt;. &lt;a href=&quot;https://disqus.com/websites/&quot;&gt;More on how to use Disqus ›&lt;/a&gt;
 &lt;!--more--&gt;&lt;/p&gt;
@@ -598,17 +565,6 @@ element&lt;/td&gt;
 			<link href="https://robotrobotrobot.github.io/design/no-header/" rel="alternate" type="text/html" title="No Header" />
 			<updated>2015-08-11T00:00:00-07:00</updated>
 
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
 			
 			<summary>Feeling Responsive allows you to use all kinds of headers. This example shows &lt;em&gt;no&lt;/em&gt; header at all. Just the navigation.</summary>
 			<content type="html" xml:base="https://robotrobotrobot.github.io/design/no-header/">&lt;p&gt;&lt;em&gt;Silence is beautiful.&lt;/em&gt; Sometimes you just want no distractions at all. Whether you like the content to speak for itself or enjoy pure typography on a plain background: &lt;em&gt;Feeling Responsive&lt;/em&gt; got you covered. Just say &lt;em&gt;no&lt;/em&gt; like this:
@@ -665,17 +621,6 @@ element&lt;/td&gt;
 			<link href="https://robotrobotrobot.github.io/design/no-header-but-image/" rel="alternate" type="text/html" title="No Header but Article Image" />
 			<updated>2015-03-12T00:00:00-07:00</updated>
 
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
 			
 			<summary>Feeling Responsive enables you to get the attention of visitors. If you don't want to use a big header, use an image for the article instead.</summary>
 			<content type="html" xml:base="https://robotrobotrobot.github.io/design/no-header-but-image/">&lt;p&gt;First turn of the header with &lt;code class=&quot;highlighter-rouge&quot;&gt;header: no&lt;/code&gt;. Then add an image to with the following code. The caption is optional.
@@ -736,17 +681,6 @@ image:
 			<link href="https://robotrobotrobot.github.io/design/header-with-text/" rel="alternate" type="text/html" title="Header With Text" />
 			<updated>2015-02-10T00:00:00-08:00</updated>
 
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
 			
 			<summary>Feeling Responsive allows you to use all kinds of headers. This header is with text.</summary>
 			<content type="html" xml:base="https://robotrobotrobot.github.io/design/header-with-text/">&lt;!--more--&gt;
@@ -809,17 +743,6 @@ image:
 			<updated>2014-10-09T00:00:00-07:00</updated>
 
 			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
-			
 			<summary>Feeling Responsive allows you to use all kinds of headers. This is the default mode. It shows a header just with your logo on the standard background.</summary>
 			<content type="html" xml:base="https://robotrobotrobot.github.io/design/header-logo-only/">&lt;p&gt;No front matter code needed.
 &lt;!--more--&gt;&lt;/p&gt;
@@ -871,17 +794,6 @@ image:
 			<link href="https://robotrobotrobot.github.io/design/header-image-color/" rel="alternate" type="text/html" title="Header Image With Background Color" />
 			<updated>2014-10-09T00:00:00-07:00</updated>
 
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
 			
 			<summary>Feeling Responsive allows you to use all kinds of headers. This example shows a header image with a defined background color via front matter.</summary>
 			<content type="html" xml:base="https://robotrobotrobot.github.io/design/header-image-color/">&lt;p&gt;It’s so easy to do. Just define in front matter an image and a background color. Instead of a color you can also use a pattern image. Have a look at the &lt;a href=&quot;https://robotrobotrobot.github.io/design/header-image-pattern/&quot;&gt;example with a background pattern&lt;/a&gt;.
@@ -948,17 +860,6 @@ image:
 			<updated>2014-10-09T00:00:00-07:00</updated>
 
 			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
-			
 			<summary>Feeling Responsive allows you to use all kinds of headers. This example shows a header with a &lt;em&gt;full-width-image&lt;/em&gt;.</summary>
 			<content type="html" xml:base="https://robotrobotrobot.github.io/design/header-full-width-image/">&lt;p&gt;It’s so easy to do. Just define in front matter your image.
 &lt;!--more--&gt;&lt;/p&gt;
@@ -1019,17 +920,6 @@ image:
 			<link href="https://robotrobotrobot.github.io/design/header-image-pattern/" rel="alternate" type="text/html" title="Header Image With Pattern" />
 			<updated>2014-10-08T00:00:00-07:00</updated>
 
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
 			
 			<summary>Feeling Responsive allows you to use all kinds of headers. This example shows a header image in front of a pattern.</summary>
 			<content type="html" xml:base="https://robotrobotrobot.github.io/design/header-image-pattern/">&lt;p&gt;It’s so easy to do. Just define in front matter an image and a pattern image. Instead of a pattern you can also use a color. Have a look at the &lt;a href=&quot;https://robotrobotrobot.github.io/design/header-image-color/&quot;&gt;example with a background color&lt;/a&gt;.

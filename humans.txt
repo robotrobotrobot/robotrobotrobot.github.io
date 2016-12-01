@@ -1,7 +1,7 @@
 /* TEAM */
 
-Name: Phlow
-Site: http://phlow.de/
+Name: Ry Johnson
+Site: http://robotrobotrobot.com/
 Twitter: @phlow
 
 
