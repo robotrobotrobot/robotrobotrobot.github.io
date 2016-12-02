@@ -1,89 +1,177 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Next</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>https://robotrobotrobot.github.io/</link>
-    <atom:link href="https://robotrobotrobot.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 01 Dec 2016 14:26:00 -0800</pubDate>
-    <lastBuildDate>Thu, 01 Dec 2016 14:26:00 -0800</lastBuildDate>
+    <title>SOLID.</title>
+    <description>Home World Down</description>
+    <link>https://robotrobotrobot.github.io//</link>
+    <atom:link href="https://robotrobotrobot.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 02 Dec 2016 14:31:03 -0800</pubDate>
+    <lastBuildDate>Fri, 02 Dec 2016 14:31:03 -0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
-        <title>Dreams</title>
-        <description>
+        <title>Question: Why did the Chicken cross the road?</title>
+        <description>&lt;p&gt;To get to the other side.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 18 Jul 2014 00:00:00 -0700</pubDate>
-        <link>https://robotrobotrobot.github.io/web%20development/2014/07/18/project-1/</link>
-        <guid isPermaLink="true">https://robotrobotrobot.github.io/web%20development/2014/07/18/project-1/</guid>
+        <pubDate>Fri, 25 Apr 2014 09:54:46 -0700</pubDate>
+        <link>https://robotrobotrobot.github.io//question/your-project-name</link>
+        <guid isPermaLink="true">https://robotrobotrobot.github.io//question/your-project-name</guid>
         
         
-        <category>Web Development</category>
+        <category>question</category>
         
       </item>
     
       <item>
-        <title>Escape</title>
-        <description>
+        <title>Project: YOUR PROJECT NAME</title>
+        <description>&lt;p&gt;####YOUR PROJECT NAME
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+
+&lt;p&gt;####Our Proposal
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 17 Jul 2014 00:00:00 -0700</pubDate>
-        <link>https://robotrobotrobot.github.io/web%20development/2014/07/17/project-2/</link>
-        <guid isPermaLink="true">https://robotrobotrobot.github.io/web%20development/2014/07/17/project-2/</guid>
+        <pubDate>Fri, 25 Apr 2014 09:54:46 -0700</pubDate>
+        <link>https://robotrobotrobot.github.io//project/your-project-name</link>
+        <guid isPermaLink="true">https://robotrobotrobot.github.io//project/your-project-name</guid>
         
         
-        <category>Web Development</category>
+        <category>project</category>
         
       </item>
     
       <item>
-        <title>Golden</title>
-        <description>
+        <title>Project: YOUR PROJECT NAME</title>
+        <description>&lt;p&gt;####YOUR PROJECT NAME
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+
+&lt;p&gt;####Our Proposal
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 16 Jul 2014 00:00:00 -0700</pubDate>
-        <link>https://robotrobotrobot.github.io/web%20development/2014/07/16/project-3/</link>
-        <guid isPermaLink="true">https://robotrobotrobot.github.io/web%20development/2014/07/16/project-3/</guid>
+        <pubDate>Fri, 25 Apr 2014 09:54:46 -0700</pubDate>
+        <link>https://robotrobotrobot.github.io//project/your-project-name</link>
+        <guid isPermaLink="true">https://robotrobotrobot.github.io//project/your-project-name</guid>
         
         
-        <category>Web Development</category>
+        <category>project</category>
         
       </item>
     
       <item>
-        <title>Treehouse</title>
-        <description>
+        <title>Project: YOUR PROJECT NAME</title>
+        <description>&lt;p&gt;####YOUR PROJECT NAME
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+
+&lt;p&gt;####Our Proposal
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 -0700</pubDate>
-        <link>https://robotrobotrobot.github.io/web%20development/2014/07/15/project-4/</link>
-        <guid isPermaLink="true">https://robotrobotrobot.github.io/web%20development/2014/07/15/project-4/</guid>
+        <pubDate>Fri, 25 Apr 2014 09:54:46 -0700</pubDate>
+        <link>https://robotrobotrobot.github.io//project/your-project-name</link>
+        <guid isPermaLink="true">https://robotrobotrobot.github.io//project/your-project-name</guid>
         
         
-        <category>Web Development</category>
+        <category>project</category>
         
       </item>
     
       <item>
-        <title>Round Icons</title>
-        <description>
+        <title>Project: YOUR PROJECT NAME</title>
+        <description>&lt;p&gt;####YOUR PROJECT NAME
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+
+&lt;p&gt;####Our Proposal
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 -0700</pubDate>
-        <link>https://robotrobotrobot.github.io/web%20development/2014/07/15/project-6/</link>
-        <guid isPermaLink="true">https://robotrobotrobot.github.io/web%20development/2014/07/15/project-6/</guid>
+        <pubDate>Fri, 25 Apr 2014 09:54:46 -0700</pubDate>
+        <link>https://robotrobotrobot.github.io//project/your-project-name</link>
+        <guid isPermaLink="true">https://robotrobotrobot.github.io//project/your-project-name</guid>
         
         
-        <category>Web Development</category>
+        <category>project</category>
         
       </item>
     
       <item>
-        <title>Startup Framework</title>
-        <description>
+        <title>Project: YOUR PROJECT NAME</title>
+        <description>&lt;p&gt;####YOUR PROJECT NAME
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+
+&lt;p&gt;####Our Proposal
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 14 Jul 2014 00:00:00 -0700</pubDate>
-        <link>https://robotrobotrobot.github.io/web%20development/2014/07/14/project-5/</link>
-        <guid isPermaLink="true">https://robotrobotrobot.github.io/web%20development/2014/07/14/project-5/</guid>
+        <pubDate>Fri, 25 Apr 2014 09:54:46 -0700</pubDate>
+        <link>https://robotrobotrobot.github.io//project/your-project-name</link>
+        <guid isPermaLink="true">https://robotrobotrobot.github.io//project/your-project-name</guid>
         
         
-        <category>Web Development</category>
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: YOUR PROJECT NAME</title>
+        <description>&lt;p&gt;####YOUR PROJECT NAME
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+
+&lt;p&gt;####Our Proposal
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2014 09:54:46 -0700</pubDate>
+        <link>https://robotrobotrobot.github.io//project/your-project-name</link>
+        <guid isPermaLink="true">https://robotrobotrobot.github.io//project/your-project-name</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: YOUR PROJECT NAME</title>
+        <description>&lt;p&gt;####YOUR PROJECT NAME
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+
+&lt;p&gt;####Our Proposal
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2014 09:54:46 -0700</pubDate>
+        <link>https://robotrobotrobot.github.io//project/your-project-name</link>
+        <guid isPermaLink="true">https://robotrobotrobot.github.io//project/your-project-name</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: YOUR PROJECT NAME</title>
+        <description>&lt;p&gt;####YOUR PROJECT NAME
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+
+&lt;p&gt;####Our Proposal
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2014 09:54:46 -0700</pubDate>
+        <link>https://robotrobotrobot.github.io//project/your-project-name</link>
+        <guid isPermaLink="true">https://robotrobotrobot.github.io//project/your-project-name</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: YOUR PROJECT NAME</title>
+        <description>&lt;p&gt;####YOUR PROJECT NAME
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+
+&lt;p&gt;####Our Proposal
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2014 09:54:46 -0700</pubDate>
+        <link>https://robotrobotrobot.github.io//project/your-project-name</link>
+        <guid isPermaLink="true">https://robotrobotrobot.github.io//project/your-project-name</guid>
+        
+        
+        <category>project</category>
         
       </item>
     
